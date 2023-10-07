@@ -1,0 +1,14 @@
+```python
+# Jarvis/Core_Objectives.txt
+
+core_objectives = [
+    "Deploy AI and ML to facilitate intelligent task interpretation and autonomous execution.",
+    "Implement AWS serverless architecture for scalability, low-latency, and cost-optimization.",
+    "Ensure seamless synchronization and automation between ClickUp and GitHub.",
+    "Deliver real-time, human-like communication and updates through Slack.",
+    "Uphold stringent data management, transmission security, and compliance protocols."
+]
+
+for objective in core_objectives:
+    print(f"- {objective}")
+```
